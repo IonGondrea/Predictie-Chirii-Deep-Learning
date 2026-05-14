@@ -6,7 +6,8 @@
 **Tema:** Regresie pentru predicția prețurilor chiriilor
 
 ## 1. Descrierea Proiectului
-Acest proiect utilizează o rețea neuronală artificială pentru a estima prețul chiriei unei proprietăți pe baza caracteristicilor sale. În contextul activității imobiliare la IMO Expert, un astfel de model oferă o bază matematică obiectivă pentru evaluarea proprietăților, ajutând la fundamentarea comisionului standard de 50% de la proprietar și 50% de la chiriaș.
+## 1. Descrierea Proiectului
+Acest proiect utilizează o rețea neuronală artificială (Multi-Layer Perceptron) pentru a estima prețul chiriei unei proprietăți pe baza caracteristicilor sale. Obiectivul este crearea unui instrument automatizat de evaluare imobiliară, capabil să învețe tiparele pieței direct din date și să elimine subiectivismul uman din procesul de stabilire a prețurilor.
 
 ## 2. Setul de Date
 Am utilizat `House_Rent_Dataset.csv`, care include informații despre:

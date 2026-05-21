@@ -96,5 +96,3 @@ date_procesate = preprocessor.transform(apartament_nou)
 # Cerem rețelei să ne zică la ce preț s-ar închiria
 pret_estimat = model.predict(date_procesate)
 print(f"Prețul chiriei estimat de inteligența artificială este: {pret_estimat[0][0]:.2f} INR")
-
-!pip install pandas numpy scikit-learn
